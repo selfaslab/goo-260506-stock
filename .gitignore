@@ -1,0 +1,29 @@
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Env / editor
+.env
+.env.*
+.vscode/
+.idea/
+.cursor/
+
+# Frontend build artifacts
+frontend/dist/
+
+# OS
+Thumbs.db
+Desktop.ini
+
