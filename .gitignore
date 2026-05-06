@@ -27,3 +27,9 @@ frontend/dist/
 Thumbs.db
 Desktop.ini
 
+# Local reference data (keep local, do not track)
+Stock_Market_Analysis_and_Prediction_.ipynb
+meta.jpg
+nvda.jpg
+qqq.jpg
+
