@@ -3,6 +3,9 @@
 차트 이미지 업로드 → (간단 추출) → 기술적 분석 → 미래 가격 예측 → 시각화/인사이트/Markdown 리포트 생성까지 연결한 **실행 가능한 MVP**입니다.  
 
 `Stock_Market_Analysis_and_Prediction_.ipynb`의 흐름(시계열 생성 → MA 등 지표 → LSTM 기반 예측/시각화)을 참고해, 웹앱에서는 **이미지 입력**을 받도록 파이프라인을 재구성했습니다.
+
+종목 티커를 넣어나 차트를 캡처해서 분석이 가능하며, 본인의 api키를 다운로드 받아서 넣으시면 작동합니다.
+
 <img width="865" height="1273" alt="stock2" src="https://github.com/user-attachments/assets/6b7c50d6-2d33-496a-b267-129b43a8044b" />
 
 
