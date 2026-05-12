@@ -1,7 +1,11 @@
 # 📊 ChartVision AI (MVP)
 
 차트 이미지 업로드 → (간단 추출) → 기술적 분석 → 미래 가격 예측 → 시각화/인사이트/Markdown 리포트 생성까지 연결한 **실행 가능한 MVP**입니다.  
+
 `Stock_Market_Analysis_and_Prediction_.ipynb`의 흐름(시계열 생성 → MA 등 지표 → LSTM 기반 예측/시각화)을 참고해, 웹앱에서는 **이미지 입력**을 받도록 파이프라인을 재구성했습니다.
+<img width="865" height="1273" alt="stock2" src="https://github.com/user-attachments/assets/6b7c50d6-2d33-496a-b267-129b43a8044b" />
+
+
 
 ## 구성
 
@@ -89,3 +93,4 @@ Response (요약):
   - (3) 모델 파일(`.pth` 등) 로딩 및 버전 관리
   가 필요합니다.
 
+<img width="1375" height="1356" alt="stock1" src="https://github.com/user-attachments/assets/3835d55f-00bb-43dd-be1e-d4c030de6e95" />
